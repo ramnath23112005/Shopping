@@ -1,7 +1,7 @@
 📘 MyShop UI Showcase A MERN-based modular product layout and e-commerce interface
-
+	
 🛠️ Overview MyShop UI Showcase is a full-stack web interface built using the MERN stack (MongoDB, Express.js, React.js, Node.js). It demonstrates multiple product card layouts for online stores, emphasizing modularity, responsive design, and visual clarity. ⚙️ This is a retrospective UI/UX project from my archive, developed to refine my secondary skills in full-stack development. My primary focus remains hardware systems and architecture.
-
+	
 🚀 Features 🎨 Four distinct layout styles: Mixed Cards, Square Cards, Rect Cards, and Big Rect Cards 🖼️ Product cards include image, name, description, and price for intuitive browsing 📦 “You May Also Like” section for dynamic product recommendations 📋 Product specification table with expandable metadata fields 💬 Customer review integration for feedback visibility 📱 Responsive React UI optimized for desktop and mobile 🧠 Modular React components for scalable layout reuse and rapid prototyping
 
 🧰 Tech Stack
