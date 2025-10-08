@@ -1,0 +1,241 @@
+[
+  {
+    "id": 1,
+    "name": "Product 1",
+    "type": "square",
+    "image": "https://i.etsystatic.com/59976878/r/il/17f364/7027975680/il_850x675.7027975680_4mz9.jpg",
+    "description": "Description for product 1",
+    "price": "$19.99",
+    "details": {
+      "packageDimensions": "19.8 x 18.8 x 9 cm",
+      "weight": "380 g",
+      "asin": "B09842ZHNM",
+      "manufacturer": "Sony",
+      "netQuantity": "1 Count",
+      "bestSellersRank": "#12 in Video Games (See Top 100 in Video Games)",
+      "categoryRank": "#3 in PlayStation 5 Controllers",
+      "about": [
+        "Bring gaming worlds to life with haptic feedback.",
+        "Experience varying force and tension at your fingertips with adaptive triggers.",
+        "Chat online through the built-in microphone.",
+        "Enjoy a comfortable, evolved design with an iconic layout.",
+        "Hear higher-fidelity sound effects through the built-in speaker.",
+        "Connect using a USB Type-C cable or Bluetooth technology.",
+        "Stream games from your PS5 or PS4 to your PC with Remote Play App."
+      ]
+    }
+  },
+  {
+    "id": 2,
+    "name": "Product 2",
+    "type": "rect",
+    "image": "https://i.etsystatic.com/35412331/r/il/12ac12/5030370429/il_600x600.5030370429_7jxf.jpg",
+    "description": "Description for product 2",
+    "price": "$29.99",
+    "details": {
+      "packageDimensions": "18.3 x 18.2 x 8.3 cm",
+      "weight": "280 g",
+      "asin": "B08G6BQ42J",
+      "manufacturer": "Microsoft",
+      "netQuantity": "1 Count",
+      "bestSellersRank": "#8 in Video Games (See Top 100 in Video Games)",
+      "categoryRank": "#5 in Xbox Series X Controllers",
+      "about": [
+        "Ergonomic design for a more comfortable experience.",
+        "Customizable controller profiles and button mapping.",
+        "Uses Bluetooth technology for seamless connection.",
+        "Compatible with Xbox Series X, Xbox Series S, and Windows PCs.",
+        "Features textured grips for a more secure hold."
+      ]
+    }
+  },
+  {
+    "id": 3,
+    "name": "Product 3",
+    "type": "big-rect",
+    "image": "https://i.etsystatic.com/46933448/r/il/bf6a85/5537782709/il_600x600.5537782709_du3d.jpg",
+    "description": "Description for product 3",
+    "price": "$49.99",
+    "details": {
+      "packageDimensions": "20.1 x 15.2 x 9.2 cm",
+      "weight": "350 g",
+      "asin": "B09FDZ3S23",
+      "manufacturer": "Sony",
+      "netQuantity": "1 Count",
+      "bestSellersRank": "#10 in Video Games (See Top 100 in Video Games)",
+      "categoryRank": "#4 in PlayStation 5 Controllers",
+      "about": [
+        "Feel every move with enhanced haptic feedback.",
+        "Precision adaptive triggers for realistic force feedback.",
+        "Play in comfort with an ergonomic design.",
+        "Connect wirelessly via Bluetooth or USB-C for seamless play.",
+        "Capture and share your gameplay with built-in features."
+      ]
+    }
+  },
+  {
+    "id": 4,
+    "name": "Product 4",
+    "type": "small-square",
+    "image": "https://i.etsystatic.com/26354470/c/2000/2000/330/0/il/e73734/5656892606/il_600x600.5656892606_pomk.jpg",
+    "description": "Description for product 4",
+    "price": "$9.99",
+    "details": {
+      "packageDimensions": "17.4 x 16.5 x 8.0 cm",
+      "weight": "275 g",
+      "asin": "B09G9F7V8M",
+      "manufacturer": "Sony",
+      "netQuantity": "1 Count",
+      "bestSellersRank": "#50 in Video Games (See Top 100 in Video Games)",
+      "categoryRank": "#20 in PlayStation 5 Controllers",
+      "about": [
+        "Compact design ideal for smaller hands.",
+        "Supports motion sensors for immersive gameplay.",
+        "Built-in microphone for voice chat and streaming.",
+        "Long battery life for uninterrupted play."
+      ]
+    }
+  },
+  {
+    "id": 5,
+    "name": "Product 5",
+    "type": "square",
+    "image": "https://i.etsystatic.com/49272564/r/il/581163/6422453231/il_300x300.6422453231_7ppq.jpg",
+    "description": "Description for product 5",
+    "price": "$19.99",
+    "details": {
+      "packageDimensions": "18.9 x 17.8 x 8.5 cm",
+      "weight": "300 g",
+      "asin": "B08X2JSKZT",
+      "manufacturer": "Sony",
+      "netQuantity": "1 Count",
+      "bestSellersRank": "#30 in Video Games (See Top 100 in Video Games)",
+      "categoryRank": "#15 in PlayStation 5 Controllers",
+      "about": [
+        "Sleek design with built-in motion sensing.",
+        "Adaptive triggers for responsive feedback.",
+        "Wireless Bluetooth connection to PlayStation and PC.",
+        "Equipped with a built-in microphone for easy voice chat."
+      ]
+    }
+  },
+  {
+    "id": 6,
+    "name": "Product 6",
+    "type": "big-rect",
+    "image": "https://i.etsystatic.com/46933448/r/il/bf6a85/5537782709/il_600x600.5537782709_du3d.jpg",
+    "description": "Description for product 6",
+    "price": "$49.99",
+    "details": {
+      "packageDimensions": "20.1 x 15.2 x 9.2 cm",
+      "weight": "350 g",
+      "asin": "B09FDZ3S23",
+      "manufacturer": "Sony",
+      "netQuantity": "1 Count",
+      "bestSellersRank": "#10 in Video Games (See Top 100 in Video Games)",
+      "categoryRank": "#4 in PlayStation 5 Controllers",
+      "about": [
+        "Feel every move with enhanced haptic feedback.",
+        "Precision adaptive triggers for realistic force feedback.",
+        "Play in comfort with an ergonomic design.",
+        "Connect wirelessly via Bluetooth or USB-C for seamless play.",
+        "Capture and share your gameplay with built-in features."
+      ]
+    }
+  },
+
+  {
+    "id": 7,
+    "name": "Product 7",
+    "type": "square",
+    "image": "https://i.etsystatic.com/59976878/r/il/17f364/7027975680/il_850x675.7027975680_4mz9.jpg",
+    "description": "Description for product 7",
+    "price": "$22.99",
+    "details": {
+      "packageDimensions": "19.5 x 19 x 9 cm",
+      "weight": "385 g",
+      "asin": "B123456789",
+      "manufacturer": "Sony",
+      "netQuantity": "1 Count",
+      "bestSellersRank": "#15 in Video Games",
+      "categoryRank": "#6 in PlayStation 5 Controllers",
+      "about": [
+        "High-quality material with sleek design.",
+        "Adaptive triggers for gaming precision.",
+        "Wireless and wired modes supported."
+      ]
+    }
+  },
+  {
+    "id": 8,
+    "name": "Product 8",
+    "type": "rect",
+    "image": "https://i.etsystatic.com/35412331/r/il/12ac12/5030370429/il_600x600.5030370429_7jxf.jpg",
+    "description": "Description for product 8",
+    "price": "$35.99",
+    "details": {
+      "packageDimensions": "18.5 x 18 x 8.5 cm",
+      "weight": "290 g",
+      "asin": "B987654321",
+      "manufacturer": "Microsoft",
+      "netQuantity": "1 Count",
+      "bestSellersRank": "#7 in Video Games",
+      "categoryRank": "#3 in Xbox Controllers",
+      "about": [
+        "Ergonomic and customizable controller.",
+        "Bluetooth connectivity.",
+        "Textured grips for comfort."
+      ]
+    }
+  },
+
+  
+
+  {
+    "id": 9,
+    "name": "Product 9",
+    "type": "small-square",
+    "image": "https://i.etsystatic.com/26354470/c/2000/2000/330/0/il/e73734/5656892606/il_600x600.5656892606_pomk.jpg",
+    "description": "Description for product 9",
+    "price": "$12.99",
+    "details": {
+      "packageDimensions": "16.5 x 16 x 7.5 cm",
+      "weight": "265 g",
+      "asin": "B135792468",
+      "manufacturer": "Sony",
+      "netQuantity": "1 Count",
+      "bestSellersRank": "#40 in Video Games",
+      "categoryRank": "#18 in PlayStation Controllers",
+      "about": [
+        "Compact controller ideal for travel.",
+        "Responsive buttons.",
+        "Good battery life."
+      ]
+    }
+  },
+
+  {
+    "id": 10,
+    "name": "Product 10",
+    "type": "big-rect",
+    "image": "https://i.etsystatic.com/46933448/r/il/bf6a85/5537782709/il_600x600.5537782709_du3d.jpg",
+    "description": "Description for product 10",
+    "price": "$55.99",
+    "details": {
+      "packageDimensions": "21 x 15.5 x 9.5 cm",
+      "weight": "360 g",
+      "asin": "B246813579",
+      "manufacturer": "Sony",
+      "netQuantity": "1 Count",
+      "bestSellersRank": "#8 in Video Games",
+      "categoryRank": "#2 in PlayStation 5 Controllers",
+      "about": [
+        "Enhanced haptic feedback technology.",
+        "Long-lasting battery.",
+        "Ergonomic design for comfort."
+      ]
+    }
+  }
+
+  
+]

@@ -1,0 +1,322 @@
+[
+  {
+    "id": 1,
+    "name": "Artisanal Candle",
+    "type": "square",
+    "image": "https://i.etsystatic.com/59976878/r/il/17f364/7027975680/il_850x675.7027975680_4mz9.jpg",
+    "description": "Hand-poured candle with a relaxing lavender scent.",
+    "price": "$14.99"
+  },
+  {
+    "id": 2,
+    "name": "Handmade Notebook",
+    "type": "rect",
+    "image": "https://i.etsystatic.com/35412331/r/il/12ac12/5030370429/il_600x600.5030370429_7jxf.jpg",
+    "description": "Eco-friendly, recycled paper with custom designs.",
+    "price": "$9.99"
+  },
+  {
+    "id": 3,
+    "name": "Canvas Wall Art",
+    "type": "big-rect",
+    "image": "https://i.etsystatic.com/46933448/r/il/bf6a85/5537782709/il_600x600.5537782709_du3d.jpg",
+    "description": "Large decorative canvas print for living rooms.",
+    "price": "$59.99"
+  },
+  {
+    "id": 4,
+    "name": "Mini Succulent Pot",
+    "type": "square-small",
+    "image": "https://i.etsystatic.com/26354470/c/2000/2000/330/0/il/e73734/5656892606/il_600x600.5656892606_pomk.jpg",
+    "description": "Tiny ceramic pot perfect for desk plants.",
+    "price": "$7.50"
+  },
+  {
+    "id": 5,
+    "name": "Woven Basket Set",
+    "type": "rect",
+    "image": "https://i.etsystatic.com/24650379/r/il/31f34c/5479048894/il_794xN.5479048894_4e7d.jpg",
+    "description": "Set of 3 handwoven baskets for storage or decor.",
+    "price": "$24.99"
+  },
+  {
+    "id": 6,
+    "name": "Abstract Art Poster",
+    "type": "big-rect",
+    "image": "https://i.etsystatic.com/47916066/r/il/ae4735/5399869792/il_794xN.5399869792_qrz2.jpg",
+    "description": "Modern abstract poster for minimal spaces.",
+    "price": "$39.99"
+  },
+  {
+    "id": 7,
+    "name": "Cozy Wool Socks",
+    "type": "square",
+    "image": "https://i.etsystatic.com/46759997/r/il/0de00a/5448424214/il_794xN.5448424214_fakd.jpg",
+    "description": "Warm and breathable socks for chilly nights.",
+    "price": "$11.99"
+  },
+  {
+    "id": 8,
+    "name": "Pocket Sketch Pad",
+    "type": "square-small",
+    "image": "https://i.etsystatic.com/29289242/r/il/cc1c1f/5131128351/il_600x600.5131128351_7kqe.jpg",
+    "description": "Compact sketch pad for artists on the go.",
+    "price": "$5.99"
+  },
+  {
+    "id": 9,
+    "name": "Leather Journal",
+    "type": "rect",
+    "image": "https://i.etsystatic.com/24508416/r/il/5f3b60/4578243339/il_794xN.4578243339_3x56.jpg",
+    "description": "Durable leather-bound journal with blank pages.",
+    "price": "$19.99"
+  },
+  {
+    "id": 10,
+    "name": "Decorative Throw Pillow",
+    "type": "square",
+    "image": "https://i.etsystatic.com/51112308/r/il/bf5f48/4856300477/il_794xN.4856300477_1a03.jpg",
+    "description": "Soft cotton pillow with geometric patterns.",
+    "price": "$21.00"
+  },
+  {
+    "id": 11,
+    "name": "Handcrafted Mug",
+    "type": "square-small",
+    "image": "https://i.etsystatic.com/15741027/r/il/6209e7/2655445639/il_794xN.2655445639_4n2r.jpg",
+    "description": "Ceramic mug with a unique glaze finish.",
+    "price": "$15.50"
+  },
+  {
+    "id": 12,
+    "name": "Vintage Wall Clock",
+    "type": "big-rect",
+    "image": "https://i.etsystatic.com/12875727/r/il/86f3dc/2323842967/il_794xN.2323842967_bht9.jpg",
+    "description": "Retro-style wall clock with Roman numerals.",
+    "price": "$49.99"
+  },
+  {
+    "id": 13,
+    "name": "Silk Scarf",
+    "type": "rect",
+    "image": "https://i.etsystatic.com/20243098/r/il/68305a/3956144624/il_794xN.3956144624_3anv.jpg",
+    "description": "Elegant silk scarf with floral prints.",
+    "price": "$29.99"
+  },
+  {
+    "id": 14,
+    "name": "Wooden Phone Stand",
+    "type": "square-small",
+    "image": "https://i.etsystatic.com/40983247/r/il/2d36bb/5436950146/il_794xN.5436950146_rds6.jpg",
+    "description": "Hand-carved wooden stand for smartphones.",
+    "price": "$13.00"
+  },
+  {
+    "id": 15,
+    "name": "Ceramic Vase",
+    "type": "square",
+    "image": "https://i.etsystatic.com/48350712/r/il/9331b9/4215036803/il_794xN.4215036803_5z2c.jpg",
+    "description": "Minimalist ceramic vase for fresh flowers.",
+    "price": "$22.50"
+  },
+  {
+    "id": 16,
+    "name": "Knitted Beanie",
+    "type": "square-small",
+    "image": "https://i.etsystatic.com/27726945/r/il/038290/4065782372/il_794xN.4065782372_55r9.jpg",
+    "description": "Warm woolen beanie with a ribbed design.",
+    "price": "$18.00"
+  },
+  {
+    "id": 17,
+    "name": "Travel Backpack",
+    "type": "big-rect",
+    "image": "https://i.etsystatic.com/49482688/r/il/4e003d/5896472385/il_794xN.5896472385_p16p.jpg",
+    "description": "Durable and spacious backpack for travelers.",
+    "price": "$79.99"
+  },
+  {
+    "id": 18,
+    "name": "Set of Coasters",
+    "type": "rect",
+    "image": "https://i.etsystatic.com/34598247/r/il/4d7460/3965472081/il_794xN.3965472081_6vgh.jpg",
+    "description": "Wooden coasters with engraved patterns.",
+    "price": "$16.99"
+  },
+  {
+    "id": 19,
+    "name": "Felt Keychain",
+    "type": "square-small",
+    "image": "https://i.etsystatic.com/26749528/r/il/f96b64/4616446240/il_794xN.4616446240_7t7v.jpg",
+    "description": "Cute felt keychain in animal shapes.",
+    "price": "$6.50"
+  },
+  {
+    "id": 20,
+    "name": "Leather Wallet",
+    "type": "square",
+    "image": "https://i.etsystatic.com/37234327/r/il/d62ad9/3624801297/il_794xN.3624801297_hybd.jpg",
+    "description": "Slim genuine leather wallet with card slots.",
+    "price": "$34.00"
+  },
+  {
+    "id": 21,
+    "name": "Herbal Tea Set",
+    "type": "rect",
+    "image": "https://i.etsystatic.com/47385632/r/il/cb7e8a/5281203546/il_794xN.5281203546_7sxz.jpg",
+    "description": "Assortment of organic herbal teas.",
+    "price": "$21.99"
+  },
+  {
+    "id": 22,
+    "name": "Macrame Wall Hanging",
+    "type": "big-rect",
+    "image": "https://i.etsystatic.com/17284567/r/il/b6e6ef/3878554889/il_794xN.3878554889_7hm2.jpg",
+    "description": "Handwoven boho-style macrame wall art.",
+    "price": "$45.00"
+  },
+  {
+    "id": 23,
+    "name": "Ceramic Planter",
+    "type": "square",
+    "image": "https://i.etsystatic.com/51275094/r/il/4f70ad/5852557764/il_794xN.5852557764_dhvn.jpg",
+    "description": "Minimalist planter for indoor plants.",
+    "price": "$19.99"
+  },
+  {
+    "id": 24,
+    "name": "Organic Cotton Tote",
+    "type": "rect",
+    "image": "https://i.etsystatic.com/34156785/r/il/4c0c29/4672513953/il_794xN.4672513953_nw2z.jpg",
+    "description": "Eco-friendly tote bag for everyday use.",
+    "price": "$14.50"
+  },
+  {
+    "id": 25,
+    "name": "Personalized Key Holder",
+    "type": "square-small",
+    "image": "https://i.etsystatic.com/29017483/r/il/748a38/3782307928/il_794xN.3782307928_e6mf.jpg",
+    "description": "Custom engraved wooden key holder.",
+    "price": "$12.00"
+  },
+  {
+    "id": 26,
+    "name": "Handcrafted Soap Set",
+    "type": "square",
+    "image": "https://i.etsystatic.com/22589613/r/il/4527f7/3180427855/il_794xN.3180427855_jbl2.jpg",
+    "description": "Natural soap bars with essential oils.",
+    "price": "$18.99"
+  },
+  {
+    "id": 27,
+    "name": "Modern Desk Lamp",
+    "type": "big-rect",
+    "image": "https://i.etsystatic.com/29484912/r/il/f5f8e7/5347209657/il_794xN.5347209657_4twg.jpg",
+    "description": "Adjustable LED desk lamp with touch control.",
+    "price": "$54.99"
+  },
+  {
+    "id": 28,
+    "name": "Cotton Throw Blanket",
+    "type": "rect",
+    "image": "https://i.etsystatic.com/49212631/r/il/06b153/5934375403/il_794xN.5934375403_q2ea.jpg",
+    "description": "Soft cotton blanket for cozy nights.",
+    "price": "$29.99"
+  },
+  {
+    "id": 29,
+    "name": "Wooden Bookmark",
+    "type": "square-small",
+    "image": "https://i.etsystatic.com/16483048/r/il/6715db/3457285147/il_794xN.3457285147_3h94.jpg",
+    "description": "Engraved wooden bookmark for book lovers.",
+    "price": "$8.00"
+  },
+  {
+    "id": 30,
+    "name": "Bamboo Utensil Set",
+    "type": "square",
+    "image": "https://i.etsystatic.com/37728249/r/il/7b9edc/5015408731/il_794xN.5015408731_h33g.jpg",
+    "description": "Eco-friendly bamboo cutlery for travel.",
+    "price": "$13.99"
+  },
+  {
+    "id": 31,
+    "name": "Boho Beaded Necklace",
+    "type": "rect",
+    "image": "https://i.etsystatic.com/40239320/r/il/33e0a0/4726820511/il_794xN.4726820511_x3kx.jpg",
+    "description": "Colorful beaded necklace with ethnic patterns.",
+    "price": "$22.00"
+  },
+  {
+    "id": 32,
+    "name": "Recycled Paper Cards",
+    "type": "square-small",
+    "image": "https://i.etsystatic.com/18934798/r/il/4ed745/3617837202/il_794xN.3617837202_1fyt.jpg",
+    "description": "Set of 10 greeting cards made from recycled paper.",
+    "price": "$10.00"
+  },
+  {
+    "id": 33,
+    "name": "Glass Terrarium",
+    "type": "big-rect",
+    "image": "https://i.etsystatic.com/25412777/r/il/fc6a6c/3438931570/il_794xN.3438931570_jmqz.jpg",
+    "description": "Geometric glass terrarium for succulents.",
+    "price": "$44.99"
+  },
+  {
+    "id": 34,
+    "name": "Handwoven Wool Rug",
+    "type": "big-rect",
+    "image": "https://i.etsystatic.com/36942645/r/il/36c5ae/5210429476/il_794xN.5210429476_k83d.jpg",
+    "description": "Cozy and colorful wool rug for any room.",
+    "price": "$85.00"
+  },
+  {
+    "id": 35,
+    "name": "Reusable Coffee Cup",
+    "type": "square",
+    "image": "https://i.etsystatic.com/37519685/r/il/c2788f/5431426704/il_794xN.5431426704_9rhb.jpg",
+    "description": "Eco-friendly cup with silicone lid.",
+    "price": "$17.99"
+  },
+  {
+    "id": 36,
+    "name": "Metal Wall Hooks",
+    "type": "rect",
+    "image": "https://i.etsystatic.com/40512925/r/il/d8bd9a/4992601361/il_794xN.4992601361_5h81.jpg",
+    "description": "Set of 5 decorative metal hooks for walls.",
+    "price": "$19.99"
+  },
+  {
+    "id": 37,
+    "name": "Floral Apron",
+    "type": "rect",
+    "image": "https://i.etsystatic.com/42101036/r/il/61cfa0/4975286809/il_794xN.4975286809_bug3.jpg",
+    "description": "Cotton apron with bright floral prints.",
+    "price": "$25.00"
+  },
+  {
+    "id": 38,
+    "name": "Natural Lip Balm",
+    "type": "square-small",
+    "image": "https://i.etsystatic.com/22087361/r/il/1e9f5a/3229049302/il_794xN.3229049302_4b0v.jpg",
+    "description": "Organic beeswax lip balm with essential oils.",
+    "price": "$6.00"
+  },
+  {
+    "id": 39,
+    "name": "Ceramic Jewelry Dish",
+    "type": "square",
+    "image": "https://i.etsystatic.com/31485930/r/il/5cc2de/3433486676/il_794xN.3433486676_p2l7.jpg",
+    "description": "Handmade dish for rings and small jewelry.",
+    "price": "$14.00"
+  },
+  {
+    "id": 40,
+    "name": "Leather Cord Organizer",
+    "type": "square-small",
+    "image": "https://i.etsystatic.com/43279410/r/il/bb3f97/4625624721/il_794xN.4625624721_gw7m.jpg",
+    "description": "Compact leather wrap to organize cables.",
+    "price": "$11.50"
+  }
+]
