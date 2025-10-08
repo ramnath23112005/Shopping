@@ -1,0 +1,78 @@
+.profile {
+  padding: 2rem;
+  color: white;
+  background-color: #121212;
+  min-height: 100vh;
+}
+
+.profile-header {
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+  margin-bottom: 2rem;
+}
+
+.avatar {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 2px solid #1db954;
+}
+
+.user-info h1 {
+  margin: 0;
+  font-size: 2rem;
+}
+
+.user-info p {
+  font-size: 1rem;
+  color: #ccc;
+}
+
+.profile-section {
+  margin-top: 2rem;
+}
+
+.profile-section h2 {
+  font-size: 1.4rem;
+  margin-bottom: 1rem;
+}
+
+.playlist-list {
+  list-style: none;
+  padding: 0;
+}
+
+.playlist-item {
+  padding: 0.5rem 0;
+  font-size: 1.1rem;
+}
+
+.liked-songs {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+
+.song-card {
+  background-color: #1e1e1e;
+  border-radius: 8px;
+  padding: 1rem;
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  width: 250px;
+  transition: background 0.3s;
+}
+
+.song-card:hover {
+  background-color: #282828;
+}
+
+.song-card img {
+  width: 64px;
+  height: 64px;
+  object-fit: cover;
+  border-radius: 4px;
+}

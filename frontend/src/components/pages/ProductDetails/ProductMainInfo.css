@@ -1,0 +1,142 @@
+.main-section {
+  display: flex;
+  gap: 30px;
+  align-items: center;
+  margin-bottom: 40px;
+  flex-wrap: wrap;
+}
+
+.image-left {
+  flex: 1;
+  min-width: 300px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.main-image-container {
+  width: 400px;
+  height: 400px;
+  max-width: 100%;
+  background-color: #f9f9f9;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 10px;
+}
+
+.main-image {
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: contain;
+  transition: opacity 0.3s ease-in-out;
+}
+
+.info-right {
+  flex: 1;
+  min-width: 280px;
+}
+
+.product-title {
+  font-size: 32px;
+  margin-bottom: 10px;
+}
+
+.price {
+  font-size: 24px;
+  color: #28a745;
+}
+
+.main-image-container {
+  position: relative;
+  width: 100%;
+  max-width: 400px;
+  height: 400px;
+  overflow: hidden;
+  background-color: #f9f9f9;
+  border-radius: 10px;
+  border: 1px solid #ccc;
+}
+
+.main-image {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  transition: transform 0.5s ease-in-out, opacity 0.4s ease-in-out;
+  opacity: 1;
+}
+
+.main-image.slide-in {
+  transform: translateX(100%);
+  opacity: 0;
+}
+
+.main-image.slide-out {
+  transform: translateX(-100%);
+  opacity: 0;
+}
+
+
+.info-right {
+  flex: 1;
+  min-width: 280px;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.price {
+  font-size: 24px;
+  color: #28a745;
+  margin: 0;
+}
+
+.product-title {
+  font-size: 28px;
+  margin: 0;
+}
+
+.actions {
+  display: flex;
+  gap: 12px;
+  align-items: center;
+  margin-top: 16px;
+}
+
+.buy-now-btn {
+  background-color: #28a745;
+  border: none;
+  color: white;
+  padding: 10px 20px;
+  font-size: 16px;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background-color 0.25s ease;
+}
+
+.buy-now-btn:hover {
+  background-color: #218838;
+}
+
+.add-to-cart-btn {
+  background: transparent;
+  border: 2px solid #28a745;
+  color: #28a745;
+  padding: 8px 12px;
+  border-radius: 6px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  transition: background-color 0.25s ease, color 0.25s ease;
+}
+
+.add-to-cart-btn:hover {
+  background-color: #28a745;
+  color: white;
+}

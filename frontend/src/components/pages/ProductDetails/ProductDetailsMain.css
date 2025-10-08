@@ -1,0 +1,173 @@
+.product-details-page {
+  padding: 30px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: #333;
+  max-width: 1200px;
+  margin: auto;
+}
+
+/* Main Section */
+.main-section {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 30px;
+  margin-bottom: 40px;
+}
+
+.image-left {
+  flex: 1;
+  min-width: 300px;
+}
+
+.main-image {
+  width: 100%;
+  max-width: 450px;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+}
+
+.image-toggle {
+  margin-top: 10px;
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+
+.thumbnail {
+  width: 60px;
+  height: 60px;
+  object-fit: cover;
+  cursor: pointer;
+  border: 2px solid transparent;
+  border-radius: 4px;
+  transition: border-color 0.2s ease;
+}
+
+.thumbnail.selected {
+  border-color: #007BFF;
+}
+
+.info-right {
+  flex: 1;
+  min-width: 280px;
+}
+
+.info-right h1 {
+  font-size: 28px;
+  margin-bottom: 10px;
+}
+
+.price {
+  font-size: 24px;
+  color: #28a745;
+  margin: 10px 0;
+}
+
+.back-btn {
+  margin-top: 20px;
+  background-color: #007BFF;
+  color: #fff;
+  padding: 10px 16px;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  font-weight: bold;
+  transition: background-color 0.2s ease;
+}
+
+.back-btn:hover {
+  background-color: #0056b3;
+}
+
+/* Detailed Info Section */
+.detailed-info-section {
+  margin: 50px 0;
+}
+
+.detailed-info-section h2,
+.detailed-info-section h3 {
+  margin-top: 30px;
+  color: #222;
+}
+
+.detailed-info-section ul {
+  list-style-type: disc;
+  padding-left: 20px;
+}
+
+.details-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 15px;
+}
+
+.details-table td {
+  border: 1px solid #ccc;
+  padding: 10px;
+}
+
+.manufacturer-logo {
+  margin-top: 15px;
+  max-width: 150px;
+  height: auto;
+}
+
+/* Suggestions Section */
+.suggestions-section {
+  margin-top: 50px;
+}
+
+.suggestions-section h2 {
+  margin-bottom: 20px;
+}
+
+.suggestions-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.suggestion-card {
+  border: 1px solid #ddd;
+  padding: 15px;
+  width: 180px;
+  border-radius: 8px;
+  text-align: center;
+  background-color: #fafafa;
+  transition: box-shadow 0.2s ease;
+}
+
+.suggestion-card:hover {
+  box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+}
+
+.suggestion-card img {
+  width: 100%;
+  height: 120px;
+  object-fit: contain;
+  margin-bottom: 10px;
+}
+
+.suggestion-card p {
+  font-weight: 500;
+  margin-bottom: 5px;
+}
+
+.suggestion-card span {
+  color: #28a745;
+  font-weight: bold;
+}
+
+/* Reviews Section */
+.reviews-section {
+  margin-top: 60px;
+}
+
+.review-card {
+  border-bottom: 1px solid #ddd;
+  padding: 15px 0;
+}
+
+.review-card p {
+  margin: 5px 0;
+}

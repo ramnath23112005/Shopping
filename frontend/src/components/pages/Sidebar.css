@@ -1,0 +1,76 @@
+.sidebar {
+  width: 240px;
+  height: calc(100vh - 2 * (1rem + 2rem)); /* Subtract navbar and footer heights */
+  background-color: #222831;
+  color: #EEEEEE;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 2rem 1.5rem;
+  position: fixed;
+  top: calc(1rem + 2rem); /* Start below navbar */
+  left: 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  border-right: 1px solid #393E46;
+  transition: transform 0.3s ease;
+  z-index: 5;
+}
+
+.sidebar.collapsed {
+  transform: translateX(-100%);
+}
+
+.sidebar.open {
+  transform: translateX(0);
+}
+
+/* Rest of your existing sidebar styles remain the same */
+.sidebar-logo {
+  font-size: 1.8rem;
+  font-weight: bold;
+  color: #00ADB5;
+  margin-bottom: 2rem;
+}
+
+.sidebar-nav ul {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 1.2rem;
+}
+
+.sidebar-nav li {
+  cursor: pointer;
+  transition: color 0.3s ease;
+  font-size: 1rem;
+}
+
+.sidebar-nav li:hover {
+  color: #00ADB5;
+}
+
+.sidebar-nav .active {
+  color: #00ADB5;
+  font-weight: bold;
+}
+
+.sidebar-footer {
+  margin-top: auto;
+}
+
+.upgrade-btn {
+  width: 100%;
+  padding: 0.6rem 1rem;
+  background-color: #00ADB5;
+  border: none;
+  border-radius: 25px;
+  color: #EEEEEE;
+  font-weight: bold;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.upgrade-btn:hover {
+  background-color: #393E46;
+}

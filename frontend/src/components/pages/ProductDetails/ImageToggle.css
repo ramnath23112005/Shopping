@@ -1,0 +1,41 @@
+.image-toggle {
+  display: flex;
+  gap: 8px;
+  margin-top: 12px;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+}
+
+.thumbnail {
+  width: 60px;
+  height: 60px;
+  object-fit: cover;
+  object-position: center;
+  border: 2px solid transparent;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: transform 0.25s ease, border 0.3s ease;
+  background-color: #f0f0f0;
+}
+
+.thumbnail:hover {
+  transform: scale(1.05);
+  border-color: #ccc;
+}
+
+.thumbnail.selected {
+  border-color: #000;
+}
+
+/* Ensure parent container doesn't jump due to varying sizes */
+.main-image {
+  width: 100%;
+  max-width: 400px;
+  height: 400px;
+  object-fit: contain;
+  border-radius: 10px;
+  background-color: #f9f9f9;
+  transition: opacity 0.3s ease-in-out;
+}
+
+

@@ -1,0 +1,79 @@
+/* Container */
+.detailed-info-section {
+  margin-top: 60px;
+  padding: 40px 30px;
+  background-color: #FAF9EE; /* Ivory White */
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+}
+
+/* Headings */
+.detailed-info-section h2,
+.detailed-info-section h3 {
+  margin-bottom: 20px;
+  font-size: 26px;
+  color: #A2AF9B; /* Moss Gray */
+  border-bottom: 2px solid #EEEEEE;
+  padding-bottom: 8px;
+  font-weight: 600;
+}
+
+/* About List */
+.detailed-info-section ul {
+  list-style-type: disc;
+  padding-left: 30px;
+  color: #555;
+  font-size: 16px;
+  line-height: 1.7;
+  margin-bottom: 40px;
+}
+
+/* Specifications Table */
+.details-table {
+  width: 100%;
+  border-collapse: collapse;
+  border-radius: 8px;
+  overflow: hidden;
+  margin-bottom: 40px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.03);
+}
+
+.details-table tr:nth-child(even) {
+  background-color: #EEEEEE; /* Light Gray */
+}
+
+.details-table td {
+  padding: 16px 20px;
+  font-size: 15px;
+  color: #333;
+  border-bottom: 1px solid #DCCFC0; /* Warm Beige */
+}
+
+.details-table td:first-child {
+  font-weight: bold;
+  background-color: #DCCFC0; /* Warm Beige */
+  width: 35%;
+}
+
+/* Manufacturer Section */
+.detailed-info-section p {
+  font-size: 16px;
+  color: #666;
+  margin: 10px 0;
+}
+
+.manufacturer-logo {
+  display: block;
+  margin-top: 20px;
+  max-width: 180px;
+  height: auto;
+  transition: transform 0.3s ease;
+  border: 1px solid #EEEEEE;
+  padding: 10px;
+  background-color: white;
+  border-radius: 8px;
+}
+
+.manufacturer-logo:hover {
+  transform: scale(1.05);
+}
